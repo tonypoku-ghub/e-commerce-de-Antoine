@@ -56,7 +56,7 @@ router.delete("/:id", async (req, res) => {
     if (!category) {
       res
         .status(404)
-        .json({ message: `No category found with id ${eq.params.id}` });
+        .json({ message: `No category found with id ${req.params.id}` });
 
       return;
     }
