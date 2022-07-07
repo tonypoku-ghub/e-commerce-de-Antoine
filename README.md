@@ -26,7 +26,25 @@ Below are some videos to help with usage.
 
 ### Sample use of application
 
----
+#### Get operations for ALL records
+
+https://watch.screencastify.com/v/C8sfdWO3o2PloG2njmZ2
+
+#### Get operations
+
+https://watch.screencastify.com/v/EFEZBPFcuDM0AFNWbxPw
+
+#### Post operations
+
+https://watch.screencastify.com/v/lnBgMuHZtTU1nz4Dvwof
+
+#### Put operations
+
+https://watch.screencastify.com/v/MC9arlQ8RzCmCDsvF8GS
+
+#### DEL operations
+
+https://watch.screencastify.com/v/0w1Mkcz2X2viZvrG0gTv
 
 ## License
 
